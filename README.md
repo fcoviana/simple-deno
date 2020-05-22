@@ -1,6 +1,6 @@
 <div align="center"><a href="https://deno.land/"><img width="150" height="150" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Deno.svg"></a>
 
-#### 1.  Dependências
+##  Deno
 
 </div>
 
