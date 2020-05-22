@@ -1,5 +1,5 @@
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Deno.svg"></p>
-    
+<p align="center"><img width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Deno.svg"></p>
+
 #### 1.  Dependências
 - [Deno](https://deno.land/#installation)
 ------------
