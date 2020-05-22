@@ -1,6 +1,6 @@
 # PROJETO TESTE DENO
 #### 1.  Dependências
-[Deno](https://deno.land/#installation)
+- [Deno](https://deno.land/#installation)
 ------------
 
 #### Comandos Deno
